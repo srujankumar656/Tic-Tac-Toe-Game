@@ -2,8 +2,6 @@
 
 A simple **Tic Tac Toe** game built using **HTML, CSS, and JavaScript**. Play against your friend and have fun! 🎉  
 
-![Tic Tac Toe Preview](https://user-images.githubusercontent.com/your-image-url.png) <!-- Replace with your actual screenshot URL -->
-
 ---
 
 ---
@@ -46,7 +44,7 @@ A simple **Tic Tac Toe** game built using **HTML, CSS, and JavaScript**. Play ag
 
 3️⃣ Open index.html in your browser
 ```
-🖼 Screenshots
+   Now play and Enjoy the Game
 
 🎯 Game Start
 
