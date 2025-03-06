@@ -47,11 +47,14 @@ A simple **Tic Tac Toe** game built using **HTML, CSS, and JavaScript**. Play ag
 3️⃣ Open index.html in your browser
 ```
 🖼 Screenshots
+
 🎯 Game Start
 
 🎉 Winner Detected
 
 
 📬 Contact
+
 📧 Email: your-email@example.com
+
 🔗 GitHub: srujankumar656
