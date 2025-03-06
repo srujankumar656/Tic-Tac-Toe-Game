@@ -45,7 +45,7 @@ A simple **Tic Tac Toe** game built using **HTML, CSS, and JavaScript**. Play ag
  cd Tic-Tac-Toe-Game
 
 3️⃣ Open index.html in your browser
-
+```
 🖼 Screenshots
 🎯 Game Start
 
