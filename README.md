@@ -4,8 +4,6 @@ A simple **Tic Tac Toe** game built using **HTML, CSS, and JavaScript**. Play ag
 
 ---
 
----
-
 ## 🚀 Features  
 ✅ Two-player game (Player X vs. Player O)  
 ✅ Interactive UI with a clean design  
