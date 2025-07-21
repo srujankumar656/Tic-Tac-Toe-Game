@@ -51,6 +51,6 @@ A simple **Tic Tac Toe** game built using **HTML, CSS, and JavaScript**. Play ag
 
 📬 Contact
 
-📧 Email: your-email@example.com
+📧 Email: your-srujankumarit656@gmail.com
 
 🔗 GitHub: srujankumar656
